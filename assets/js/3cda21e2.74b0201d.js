@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklm_commons=self.webpackChunklm_commons||[]).push([[3054],{5255:o=>{o.exports=JSON.parse('{"permalink":"/blog/tags/bootstrap","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
