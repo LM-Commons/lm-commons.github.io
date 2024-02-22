@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklmc_github_io_docs=self.webpackChunklmc_github_io_docs||[]).push([[6829],{5124:s=>{s.exports=JSON.parse('{"label":"laminas","permalink":"/blog/tags/laminas","allTagsPath":"/blog/tags","count":2,"unlisted":false}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklmc_github_io_docs=self.webpackChunklmc_github_io_docs||[]).push([[1179],{4324:s=>{s.exports=JSON.parse('{"label":"PHP","permalink":"/blog/tags/php","allTagsPath":"/blog/tags","count":2,"unlisted":false}')}}]);
