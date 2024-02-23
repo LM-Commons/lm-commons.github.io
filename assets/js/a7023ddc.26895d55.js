@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklmc_github_io_docs=self.webpackChunklmc_github_io_docs||[]).push([[9267],{8289:a=>{a.exports=JSON.parse('[{"label":"laminas","permalink":"/blog/tags/laminas","count":2},{"label":"PHP","permalink":"/blog/tags/php","count":2},{"label":"bootstrap","permalink":"/blog/tags/bootstrap","count":1}]')}}]);
