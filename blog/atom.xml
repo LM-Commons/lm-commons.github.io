@@ -2,26 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lm-commons.github.io/blog</id>
     <title>LM Commons Blog</title>
-    <updated>2024-02-23T00:00:00.000Z</updated>
+    <updated>2024-04-10T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lm-commons.github.io/blog"/>
     <subtitle>LM Commons Blog</subtitle>
     <icon>https://lm-commons.github.io/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[New community for LM-Commons on Discord]]></title>
+        <title type="html"><![CDATA[New community for LM-Commons on Slack]]></title>
         <id>https://lm-commons.github.io/blog/discord</id>
         <link href="https://lm-commons.github.io/blog/discord"/>
-        <updated>2024-02-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We have created a LM-Commons community server on Discord.]]></summary>
-        <content type="html"><![CDATA[<p>We have created a LM-Commons community server on Discord.</p>
+        <updated>2024-04-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We have created a LM-Commons community on Slack.]]></summary>
+        <content type="html"><![CDATA[<p>We have created a LM-Commons community on Slack.</p>
 <p>This will be the preferred community to ask questions and get support.</p>
-<p>Please join the community using this invitation <a href="https://discord.gg/qz6Hm3nETa" target="_blank" rel="noopener noreferrer"><strong>link</strong></a>.</p>]]></content>
+<p>Please join the community using this invitation <a href="https://join.slack.com/t/lm-commons/shared_invite/zt-2gankt2wj-FTS45hp1W~JEj1tWvDsUHQ" target="_blank" rel="noopener noreferrer"><strong>link</strong></a>.</p>]]></content>
         <author>
             <name>Eric Richer</name>
             <uri>https://github.com/visto9259</uri>
         </author>
         <category label="lm-commons" term="lm-commons"/>
-        <category label="discord" term="discord"/>
+        <category label="slack" term="slack"/>
         <category label="support" term="support"/>
     </entry>
     <entry>

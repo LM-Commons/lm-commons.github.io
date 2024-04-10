@@ -4,21 +4,21 @@
         <title>LM Commons Blog</title>
         <link>https://lm-commons.github.io/blog</link>
         <description>LM Commons Blog</description>
-        <lastBuildDate>Fri, 23 Feb 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Apr 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[New community for LM-Commons on Discord]]></title>
+            <title><![CDATA[New community for LM-Commons on Slack]]></title>
             <link>https://lm-commons.github.io/blog/discord</link>
             <guid>https://lm-commons.github.io/blog/discord</guid>
-            <pubDate>Fri, 23 Feb 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[We have created a LM-Commons community server on Discord.]]></description>
-            <content:encoded><![CDATA[<p>We have created a LM-Commons community server on Discord.</p>
+            <pubDate>Wed, 10 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[We have created a LM-Commons community on Slack.]]></description>
+            <content:encoded><![CDATA[<p>We have created a LM-Commons community on Slack.</p>
 <p>This will be the preferred community to ask questions and get support.</p>
-<p>Please join the community using this invitation <a href="https://discord.gg/qz6Hm3nETa" target="_blank" rel="noopener noreferrer"><strong>link</strong></a>.</p>]]></content:encoded>
+<p>Please join the community using this invitation <a href="https://join.slack.com/t/lm-commons/shared_invite/zt-2gankt2wj-FTS45hp1W~JEj1tWvDsUHQ" target="_blank" rel="noopener noreferrer"><strong>link</strong></a>.</p>]]></content:encoded>
             <category>lm-commons</category>
-            <category>discord</category>
+            <category>slack</category>
             <category>support</category>
         </item>
         <item>
