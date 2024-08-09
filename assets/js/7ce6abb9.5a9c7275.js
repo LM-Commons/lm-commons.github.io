@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklmc_github_io_docs=self.webpackChunklmc_github_io_docs||[]).push([[2850],{6040:s=>{s.exports=JSON.parse('{"label":"slack","permalink":"/blog/tags/slack","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
