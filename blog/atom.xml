@@ -2,11 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lm-commons.github.io/blog</id>
     <title>LM-Commons Blog</title>
-    <updated>2024-04-10T00:00:00.000Z</updated>
+    <updated>2025-01-02T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lm-commons.github.io/blog"/>
     <subtitle>LM-Commons Blog</subtitle>
     <icon>https://lm-commons.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[LM-Commons now supports PHP 8.4]]></title>
+        <id>https://lm-commons.github.io/blog/PHP-8-4</id>
+        <link href="https://lm-commons.github.io/blog/PHP-8-4"/>
+        <updated>2025-01-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[PHP 8.4 support has been added to the following packages:]]></summary>
+        <content type="html"><![CDATA[<p>PHP 8.4 support has been added to the following packages:</p>
+<ul>
+<li>LmcUser V3</li>
+<li>LmcRbac V1</li>
+<li>LmcRbac V2</li>
+<li>LmcRbacMvc V3</li>
+<li>LmcRbacMvc V4</li>
+<li>LmcCors V1</li>
+</ul>]]></content>
+        <author>
+            <name>Eric Richer</name>
+            <uri>https://github.com/visto9259</uri>
+        </author>
+        <category label="lm-commons" term="lm-commons"/>
+        <category label="php-8.4" term="php-8.4"/>
+        <category label="upgrade" term="upgrade"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New community for LM-Commons on Slack]]></title>
         <id>https://lm-commons.github.io/blog/discord</id>

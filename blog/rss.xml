@@ -4,10 +4,29 @@
         <title>LM-Commons Blog</title>
         <link>https://lm-commons.github.io/blog</link>
         <description>LM-Commons Blog</description>
-        <lastBuildDate>Wed, 10 Apr 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jan 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[LM-Commons now supports PHP 8.4]]></title>
+            <link>https://lm-commons.github.io/blog/PHP-8-4</link>
+            <guid>https://lm-commons.github.io/blog/PHP-8-4</guid>
+            <pubDate>Thu, 02 Jan 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[PHP 8.4 support has been added to the following packages:]]></description>
+            <content:encoded><![CDATA[<p>PHP 8.4 support has been added to the following packages:</p>
+<ul>
+<li>LmcUser V3</li>
+<li>LmcRbac V1</li>
+<li>LmcRbac V2</li>
+<li>LmcRbacMvc V3</li>
+<li>LmcRbacMvc V4</li>
+<li>LmcCors V1</li>
+</ul>]]></content:encoded>
+            <category>lm-commons</category>
+            <category>php-8.4</category>
+            <category>upgrade</category>
+        </item>
         <item>
             <title><![CDATA[New community for LM-Commons on Slack]]></title>
             <link>https://lm-commons.github.io/blog/discord</link>
