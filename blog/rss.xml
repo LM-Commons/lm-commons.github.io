@@ -4,10 +4,28 @@
         <title>LM-Commons Blog</title>
         <link>https://lm-commons.github.io/blog</link>
         <description>LM-Commons Blog</description>
-        <lastBuildDate>Thu, 02 Jan 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Jul 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[LMC MVC-based Modules are now maintenance only]]></title>
+            <link>https://lm-commons.github.io/blog/MVC-maintenance-only</link>
+            <guid>https://lm-commons.github.io/blog/MVC-maintenance-only</guid>
+            <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[With the announcement from the Laminas Technical Committee to put all Laminas MVC components into maintenance-only,]]></description>
+            <content:encoded><![CDATA[<p>With the announcement from the Laminas Technical Committee to put all Laminas MVC components into maintenance-only,
+we have decided to do the same for the LMC packages that are based on Laminas MVC.</p>
+<p>Therefore, the following packages will be set to Maintenance-Only and no new features will be developed but they will
+be updated to support PHP 8.5:</p>
+<table><thead><tr><th>Package</th><th>Version</th><th>Comments</th></tr></thead><tbody><tr><td>LmcUser</td><td>3</td><td>Version 4 will be abandoned</td></tr><tr><td>LmcUserDoctrineORM</td><td>All</td><td></td></tr><tr><td>LmcUserDoctrineMongoODM</td><td>All</td><td></td></tr><tr><td>LmcRbacMvc</td><td>All</td><td></td></tr><tr><td>LmcRbacMvcDeveloperTools</td><td>1</td><td></td></tr><tr><td>LmcCors</td><td>1</td><td>Version 2 is abandoned</td></tr><tr><td>LmcAdmin</td><td>All</td><td></td></tr><tr><td>LmcMail</td><td>1</td><td>Abandoned</td></tr></tbody></table>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="new-mezzio-packages">New Mezzio Packages<a href="https://lm-commons.github.io/blog/MVC-maintenance-only#new-mezzio-packages" class="hash-link" aria-label="Direct link to New Mezzio Packages" title="Direct link to New Mezzio Packages">​</a></h3>
+<p>New packages will be developed for Mezzio as replacements for Laminas MVC based packages.
+These will be announced later.</p>]]></content:encoded>
+            <category>lm-commons</category>
+            <category>MVC</category>
+            <category>upgrade</category>
+        </item>
         <item>
             <title><![CDATA[LM-Commons now supports PHP 8.4]]></title>
             <link>https://lm-commons.github.io/blog/PHP-8-4</link>
