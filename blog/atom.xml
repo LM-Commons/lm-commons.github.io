@@ -2,11 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lm-commons.github.io/blog</id>
     <title>LM-Commons Blog</title>
-    <updated>2025-07-01T00:00:00.000Z</updated>
+    <updated>2025-11-21T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lm-commons.github.io/blog"/>
     <subtitle>LM-Commons Blog</subtitle>
     <icon>https://lm-commons.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[New LMC Authentication is now released]]></title>
+        <id>https://lm-commons.github.io/blog/lmc-authentication</id>
+        <link href="https://lm-commons.github.io/blog/lmc-authentication"/>
+        <updated>2025-11-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[LM-Commons LMC Authentication package is now available.]]></summary>
+        <content type="html"><![CDATA[<p>LM-Commons LMC Authentication package is now available.</p>
+<p>This package provides authentication middlewares for Mezzio applications.</p>
+<p>Check out the <a href="https://lm-commons.github.io/lmc-authentication" target="_blank" rel="noopener noreferrer" class="">documentation</a></p>]]></content>
+        <author>
+            <name>Eric Richer</name>
+            <uri>https://github.com/visto9259</uri>
+        </author>
+        <category label="lm-commons" term="lm-commons"/>
+        <category label="Mezzio" term="Mezzio"/>
+        <category label="autnentication" term="autnentication"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LMC MVC-based Modules are now maintenance only]]></title>
         <id>https://lm-commons.github.io/blog/MVC-maintenance-only</id>
@@ -18,7 +35,7 @@ we have decided to do the same for the LMC packages that are based on Laminas MV
 <p>Therefore, the following packages will be set to Maintenance-Only and no new features will be developed but they will
 be updated to support PHP 8.5:</p>
 <table><thead><tr><th>Package</th><th>Version</th><th>Comments</th></tr></thead><tbody><tr><td>LmcUser</td><td>3</td><td>Version 4 will be abandoned</td></tr><tr><td>LmcUserDoctrineORM</td><td>All</td><td></td></tr><tr><td>LmcUserDoctrineMongoODM</td><td>All</td><td></td></tr><tr><td>LmcRbacMvc</td><td>All</td><td></td></tr><tr><td>LmcRbacMvcDeveloperTools</td><td>1</td><td></td></tr><tr><td>LmcCors</td><td>1</td><td>Version 2 is abandoned</td></tr><tr><td>LmcAdmin</td><td>All</td><td></td></tr><tr><td>LmcMail</td><td>1</td><td>Abandoned</td></tr></tbody></table>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="new-mezzio-packages">New Mezzio Packages<a href="https://lm-commons.github.io/blog/MVC-maintenance-only#new-mezzio-packages" class="hash-link" aria-label="Direct link to New Mezzio Packages" title="Direct link to New Mezzio Packages">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="new-mezzio-packages">New Mezzio Packages<a href="https://lm-commons.github.io/blog/MVC-maintenance-only#new-mezzio-packages" class="hash-link" aria-label="Direct link to New Mezzio Packages" title="Direct link to New Mezzio Packages" translate="no">​</a></h3>
 <p>New packages will be developed for Mezzio as replacements for Laminas MVC based packages.
 These will be announced later.</p>]]></content>
         <author>
@@ -37,12 +54,12 @@ These will be announced later.</p>]]></content>
         <summary type="html"><![CDATA[PHP 8.4 support has been added to the following packages:]]></summary>
         <content type="html"><![CDATA[<p>PHP 8.4 support has been added to the following packages:</p>
 <ul>
-<li>LmcUser V3</li>
-<li>LmcRbac V1</li>
-<li>LmcRbac V2</li>
-<li>LmcRbacMvc V3</li>
-<li>LmcRbacMvc V4</li>
-<li>LmcCors V1</li>
+<li class="">LmcUser V3</li>
+<li class="">LmcRbac V1</li>
+<li class="">LmcRbac V2</li>
+<li class="">LmcRbacMvc V3</li>
+<li class="">LmcRbacMvc V4</li>
+<li class="">LmcCors V1</li>
 </ul>]]></content>
         <author>
             <name>Eric Richer</name>
@@ -60,7 +77,7 @@ These will be announced later.</p>]]></content>
         <summary type="html"><![CDATA[We have created a LM-Commons community on Slack.]]></summary>
         <content type="html"><![CDATA[<p>We have created a LM-Commons community on Slack.</p>
 <p>This will be the preferred community to ask questions and get support.</p>
-<p>Please join the community using this invitation <a href="https://join.slack.com/t/lm-commons/shared_invite/zt-2gankt2wj-FTS45hp1W~JEj1tWvDsUHQ" target="_blank" rel="noopener noreferrer"><strong>link</strong></a>.</p>]]></content>
+<p>Please join the community using this invitation <a href="https://join.slack.com/t/lm-commons/shared_invite/zt-2gankt2wj-FTS45hp1W~JEj1tWvDsUHQ" target="_blank" rel="noopener noreferrer" class=""><strong>link</strong></a>.</p>]]></content>
         <author>
             <name>Eric Richer</name>
             <uri>https://github.com/visto9259</uri>
@@ -76,7 +93,7 @@ These will be announced later.</p>]]></content>
         <updated>2022-10-24T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[LmcBootstrapMenu is a new LM-Commons package that provides a Bootstrap menu helper.]]></summary>
         <content type="html"><![CDATA[<p>LmcBootstrapMenu is a new LM-Commons package that provides a Bootstrap menu helper.</p>
-<p>The repository is available on GitHub <a href="https://github.com/LM-Commons/LmcBootstrapMenu" target="_blank" rel="noopener noreferrer">LM-Commons/LmcBootstrapMenu</a>.</p>
+<p>The repository is available on GitHub <a href="https://github.com/LM-Commons/LmcBootstrapMenu" target="_blank" rel="noopener noreferrer" class="">LM-Commons/LmcBootstrapMenu</a>.</p>
 <p>It is also available on Packagist via Composer.  Please see installation instructions in the <code>README.md</code> file in the GitHub repository.</p>]]></content>
         <author>
             <name>Eric Richer</name>
