@@ -2,11 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lm-commons.github.io/blog</id>
     <title>LM-Commons Blog</title>
-    <updated>2025-11-21T00:00:00.000Z</updated>
+    <updated>2025-11-24T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lm-commons.github.io/blog"/>
     <subtitle>LM-Commons Blog</subtitle>
     <icon>https://lm-commons.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[LM-Commons now supports PHP 8.5]]></title>
+        <id>https://lm-commons.github.io/blog/PHP-8-5</id>
+        <link href="https://lm-commons.github.io/blog/PHP-8-5"/>
+        <updated>2025-11-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[PHP 8.5 support has been added to the following packages.]]></summary>
+        <content type="html"><![CDATA[<p>PHP 8.5 support has been added to the following packages.</p>
+<p>PHP 8.1 support has been dropped for same packages.</p>
+<ul>
+<li class="">LmcUser V3</li>
+<li class="">LmcRbac V2</li>
+<li class="">LmcRbacMvc V4</li>
+<li class="">LmcCors V1</li>
+<li class="">LmcAdmin V2</li>
+</ul>
+<p>Future LMC packages will support PHP 8.2 and up.</p>]]></content>
+        <author>
+            <name>Eric Richer</name>
+            <uri>https://github.com/visto9259</uri>
+        </author>
+        <category label="lm-commons" term="lm-commons"/>
+        <category label="php-8.5" term="php-8.5"/>
+        <category label="upgrade" term="upgrade"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New LMC Authentication is now released]]></title>
         <id>https://lm-commons.github.io/blog/lmc-authentication</id>

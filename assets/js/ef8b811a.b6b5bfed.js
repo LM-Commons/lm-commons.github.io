@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunklmc_github_io_docs=globalThis.webpackChunklmc_github_io_docs||[]).push([[8947],{6600:i=>{i.exports=JSON.parse('{"authors":[{"name":"Eric Richer","title":"LM-Commons Admin","url":"https://github.com/visto9259","imageURL":"https://github.com/visto9259.png","key":"ericr","page":null,"count":7}]}')}}]);

@@ -4,10 +4,30 @@
         <title>LM-Commons Blog</title>
         <link>https://lm-commons.github.io/blog</link>
         <description>LM-Commons Blog</description>
-        <lastBuildDate>Fri, 21 Nov 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Nov 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[LM-Commons now supports PHP 8.5]]></title>
+            <link>https://lm-commons.github.io/blog/PHP-8-5</link>
+            <guid>https://lm-commons.github.io/blog/PHP-8-5</guid>
+            <pubDate>Mon, 24 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[PHP 8.5 support has been added to the following packages.]]></description>
+            <content:encoded><![CDATA[<p>PHP 8.5 support has been added to the following packages.</p>
+<p>PHP 8.1 support has been dropped for same packages.</p>
+<ul>
+<li class="">LmcUser V3</li>
+<li class="">LmcRbac V2</li>
+<li class="">LmcRbacMvc V4</li>
+<li class="">LmcCors V1</li>
+<li class="">LmcAdmin V2</li>
+</ul>
+<p>Future LMC packages will support PHP 8.2 and up.</p>]]></content:encoded>
+            <category>lm-commons</category>
+            <category>php-8.5</category>
+            <category>upgrade</category>
+        </item>
         <item>
             <title><![CDATA[New LMC Authentication is now released]]></title>
             <link>https://lm-commons.github.io/blog/lmc-authentication</link>
