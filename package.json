@@ -43,7 +43,7 @@
     "node": ">=18.0"
   },
   "overrides": {
-    "webpack": "5.110.2"
+    "webpack": "5.110.3"
   },
   "resolutions": {
     "webpackbar": "^7.0.0"
